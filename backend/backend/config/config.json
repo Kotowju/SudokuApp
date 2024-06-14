@@ -1,0 +1,24 @@
+{
+    "development": {
+      "username": "your_db_username",
+      "password": "your_db_password",
+      "database": "SudokuDB",
+      "host": "127.0.0.1",
+      "dialect": "mssql"
+    },
+    "test": {
+      "username": "your_db_username",
+      "password": "your_db_password",
+      "database": "SudokuDB",
+      "host": "127.0.0.1",
+      "dialect": "mssql"
+    },
+    "production": {
+      "username": "your_db_username",
+      "password": "your_db_password",
+      "database": "SudokuDB",
+      "host": "127.0.0.1",
+      "dialect": "mssql"
+    }
+  }
+  
